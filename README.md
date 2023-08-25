@@ -10,3 +10,6 @@ If Trader wants to buy a stock for price X and StockExchange has cheaper options
 Else, if there's insufficient amount of stocks, his buying proposal stays in StockExchange and waits, maybe someone would like tosell him Stocks for his desired price  
 Same logic goes for selling stocks.  
 
+## Preview of model's work
+
+https://youtu.be/7xSwI8VzWAE
